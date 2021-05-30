@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CD Zoom</string>
+
+    <string name="login_email">Login Email</string>
+    <string name="login_pwd">Login Password</string>
+
+    <string name="user_name">Your Name</string>
+    <string name="meeting_no">Meeting Number</string>
+    <string name="meeting_pwd">Meeting Password</string>
+
+</resources>

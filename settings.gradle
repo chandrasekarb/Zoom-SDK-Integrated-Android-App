@@ -1,0 +1,4 @@
+rootProject.name = "ZoomSDk"
+include ':app'
+include ':commonlib'
+include ':mobilertc'
